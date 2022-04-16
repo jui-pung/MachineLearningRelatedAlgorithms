@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Entropy
+comment1.params=x\ total
+comment1.target=double\ getEntropy(int,\ int)
+comment2.params=y
+comment2.target=double\ Logs(double)
+comment3.params=x\ total
+comment3.target=double\ getProbability(int,\ int)
+numComments=4

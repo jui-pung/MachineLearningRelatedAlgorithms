@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Start
+comment1.params=
+comment1.target=java.util.List\ createDataList()
+comment1.text=\r\n\ \ \ \ \ \ \ \ {"age",\ "income",\ "student",\ "credit_rating"\ ,\ "buys_computer"},\r\n\ \ \ \ \ \ \ \ 1{"youth",\ "high",\ "no",\ "fair",\ "no"},\r\n\ \ \ \ \ \ \ \ 2{"youth",\ "high",\ "no",\ "excellent",\ "no"},\r\n\ \ \ \ \ \ \ \ 3{"middle_aged",\ "high",\ "no",\ "fair",\ "yes"},\r\n\ \ \ \ \ \ \ \ 4{"senior",\ "medium",\ "no",\ "fair",\ "yes"},\r\n\ \ \ \ \ \ \ \ 5{"senior",\ "low",\ "yes",\ "fair",\ "yes"},\r\n\ \ \ \ \ \ \ \ 6{"senior",\ "low",\ "yes",\ "excellent",\ "no"},\r\n\ \ \ \ \ \ \ \ 7{"middle_aged",\ "low",\ "yes",\ "excellent",\ "yes"},\r\n\ \ \ \ \ \ \ \ 8{"youth",\ "medium",\ "no",\ "fair",\ "no"},\r\n\ \ \ \ \ \ \ \ 9{"youth",\ "low",\ "yes",\ "fair",\ "yes"},\r\n\ \ \ \ \ \ \ \ 10{"senior",\ "medium",\ "yes",\ "fair",\ "yes"},\r\n\ \ \ \ \ \ \ \ 11{"youth",\ "medium",\ "yes",\ "excellent",\ "yes"},\r\n\ \ \ \ \ \ \ \ 12{"middle_aged",\ "medium",\ "no",\ "excellent",\ "yes"},\r\n\ \ \ \ \ \ \ \ 13{"middle_aged",\ "high",\ "yes",\ "fair",\ "yes"},\r\n\ \ \ \ \ \ \ \ 14{"senior",\ "medium",\ "no",\ "excellent",\ "no"},\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

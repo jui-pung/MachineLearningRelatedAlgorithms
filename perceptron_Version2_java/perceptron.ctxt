@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=perceptron
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=w\ x\ k\ check
+comment2.target=int[][]\ getDecisionFunction(int[][],\ int[][],\ int,\ int)
+numComments=3

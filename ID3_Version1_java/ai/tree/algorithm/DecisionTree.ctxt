@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DecisionTree
+comment1.params=dataList
+comment1.target=TreeNode\ createTree(java.util.List)
+comment2.params=dataList
+comment2.target=java.lang.String\ chooseBestFeatureToSplit(java.util.List)
+comment2.text=\r\n\ \u8BA1\u7B97\u4F20\u5165\u6570\u636E\u96C6\u4E2D\u7684\u6700\u4F18\u5206\u7C7B\u7279\u5F81\r\n\r\n\ @param\ dataList\r\n\ @return\ int\ \u6700\u4F18\u5206\u7C7B\u7279\u5F81\u7684\u63CF\u8FF0\r\n\ @author\ ChenLuyang\r\n\ @date\ 2019/2/21\ 14\:12\r\n
+comment3.params=dataList
+comment3.target=java.math.BigDecimal\ calcShannonEnt(java.util.List)
+comment3.text=\r\n\ \u8BA1\u7B97\u4F20\u5165\u6837\u672C\u96C6\u7684\u71B5\u503C\r\n\r\n\ @param\ dataList\ \u6837\u672C\u96C6\r\n\ @return\ java.math.BigDecimal\ \u71B5\r\n\ @author\ ChenLuyang\r\n\ @date\ 2019/2/22\ 9\:41\r\n
+comment4.params=dataList\ future\ info
+comment4.target=java.util.List\ splitDataList(java.util.List,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ \u6839\u636E\u67D0\u4E2A\u7279\u5F81\u7684\u7279\u5F81\u503C\uFF0C\u8FDB\u884C\u6837\u672C\u6570\u636E\u7684\u5212\u5206\uFF0C\u5C06\u5212\u5206\u540E\u7684\u6837\u672C\u6570\u636E\u96C6\u8FD4\u56DE\r\n\r\n\ @param\ dataList\ \u5F85\u5212\u5206\u7684\u6837\u672C\u6570\u636E\u96C6\r\n\ @param\ future\ \ \ \u7B5B\u9009\u7684\u7279\u5F81\u4F9D\u636E\r\n\ @param\ info\ \ \ \ \ \u7B5B\u9009\u7684\u7279\u5F81\u503C\u4F9D\u636E\r\n\ @return\ java.util.List<ai.tree.data.Data>\ \u6309\u7167\u6307\u5B9A\u7279\u5F81\u503C\u5206\u7C7B\u540E\u7684\u6570\u636E\u96C6\r\n\ @author\ ChenLuyang\r\n\ @date\ 2019/2/21\ 18\:26\r\n
+numComments=5

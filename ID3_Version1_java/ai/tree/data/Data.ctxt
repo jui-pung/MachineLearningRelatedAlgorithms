@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Data
+comment1.params=feature\ result
+comment1.target=Data(java.util.HashMap,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.HashMap\ getFeature()
+comment3.params=
+comment3.target=java.lang.String\ getResult()
+comment4.params=feature
+comment4.target=void\ setFeature(java.util.HashMap)
+comment5.params=
+comment5.target=Data\ clone()
+numComments=6
