@@ -19,8 +19,10 @@ int[][] x = {{0,0,1},{0,1,1},{1,0,1},{1,1,1}};  //特徵
 
 ### Decision Tree
 Implement the partition that occurs at the rootnode<br>
-ID3 (Iterative Dichotomiser 3) is an algorithm invented by Ross Quinlan used to generate a decision tree from a dataset.
+ID3 (Iterative Dichotomiser 3) is an algorithm invented by Ross Quinlan used to generate a decision tree from a dataset.<br>
 <img src="https://github.com/jui-pung/MachineLearningRelatedAlgorithms/blob/8d7bedd2197b5f5986328ef29921c06db5e67a62/allelectronics%20customer%20database.png" alt="drawing" width="400"/>
 
 
 ### HMM
+Problem :<br>
+[Description file](https://github.com/jui-pung/MachineLearningRelatedAlgorithms/blob/b37c5f4a351c03b5ceef5289b75a3dae9fa05876/HMM_java/Hidden%20Markov%20Model.pdf)
