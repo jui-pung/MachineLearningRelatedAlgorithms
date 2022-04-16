@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HMM
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=observations\ n\ a\ b\ pi
+comment2.target=void\ viterbi(java.lang.String[],\ int,\ double[][],\ double[][],\ double[])
+comment3.params=observations\ n\ a\ b\ pi
+comment3.target=double\ forward(java.lang.String[],\ int,\ double[][],\ double[][],\ double[])
+comment4.params=observations\ n\ a\ b\ pi
+comment4.target=double\ backward(java.lang.String[],\ int,\ double[][],\ double[][],\ double[])
+comment5.params=observations\ n\ m\ a\ b\ pi
+comment5.target=void\ forward_backward(java.lang.String[],\ int,\ int,\ double[][],\ double[][],\ double[])
+numComments=6
